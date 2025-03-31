@@ -1,2 +1,4 @@
 Nombre y apellido: Agustin Nahuel Diaz Serafini
 Comision 2
+
+Agregue por accidente un archivo .py, mirare como quitarlo pero queria entregar lo mas pronto posible para no atrasarme.
